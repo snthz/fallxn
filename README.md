@@ -15,6 +15,7 @@
 
 [![Website](https://img.shields.io/badge/fallxn.studio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://fallxn.studio)
 [![Instagram](https://img.shields.io/badge/@fallxn.studio-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fallxn.studio)
+[![LinkedIn](https://img.shields.io/badge/Axl_Santos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://hn.linkedin.com/in/axl-santos)
 
 </div>
 
